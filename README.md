@@ -6,7 +6,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg) -->
 
-###Student in UCU, Web-developer of sites, designer of graphic designs. 💻💖☕
+### Student in UCU, Web-developer of sites, designer of graphic designs. 💻💖☕
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
