@@ -79,15 +79,13 @@ Wanna have chat with me? Join my tech communities!
 
 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
 
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga
+[twitter]: https://twitter.com/maxondevelop
+[telegram]: https://telegram.me/maxonchiks
+[discord]: https://discordapp.com/users/7502
+[instagram]: https://instagram.com/maxondev
+[bymeacofe]: https://www.buymeacoffee.com/MaxonDev
 
-<h3 align="left">Support:</h3>
+<h3 align="left">By me a Jmil-Coffe 💞:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/MaxonDev">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhumen" />
