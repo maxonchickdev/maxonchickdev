@@ -22,6 +22,8 @@
 
 - **My telegram**: [((🤙))](https://telegram.me/maxonchicks)
 
+<a href="https://instagram.com/maxondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="den_humen" height="30" width="40" /></a>
+
 - **My discord:** [((🤞))](https://discordapp.com/users/7502)
 
 - **My instagram:** [((👇))](https://instagram.com/maxondev)
