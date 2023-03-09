@@ -10,11 +10,7 @@
 
 ## 🔧 ****Technologies****
 
-<!-- ![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light) -->
-
-<p align='center'>
-    <img alt='images' href='https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light'></img>
-</p>
+![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light)
 
 ## 🌏 ****Social networks****
 
