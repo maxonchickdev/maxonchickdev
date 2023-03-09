@@ -22,17 +22,17 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light)
 
-## 🌏 Social networks
+## 🌏 ****Social networks****
 
 - **My telegram**: [Wellcome](https://telegram.me/maxonchicks)
 
-- My discord: [Wellcome](https://discordapp.com/users/7502)
+- **My discord:** [Wellcome](https://discordapp.com/users/7502)
 
-- My instagram: [Wellcome](https://instagram.com/maxondev)
+- **My instagram:** [Wellcome](https://instagram.com/maxondev)
 
-- By me a Jmil-coffe: [Wellcome](https://www.buymeacoffee.com/MaxonDev)
+- **By me a Jmil-coffe:** [Wellcome](https://www.buymeacoffee.com/MaxonDev)
 
-- My twitter: [Wellcome](https://twitter.com/maxondevelop)
+- **My twitter:** [Wellcome](https://twitter.com/maxondevelop)
 
 <h3 align="left">By me a Jmil-coffe 💞:</h3>
 <p>
