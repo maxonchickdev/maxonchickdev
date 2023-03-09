@@ -10,13 +10,6 @@
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
-  💝 Author of multiple open source projects (~30 to date)
-- 🔏 Bug bounty hunter in free time
-- 🎯 Wasting my time to save other people's time.
-- 💼 Community from me @ [Wellcome](https://telegram.me/maxonchicks)
-- 💜 Core @ [Subscribe me to poligon](https://www.poliigon.com/account?tab=dashboard)
-- ☕ Jmil-Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/MaxonDev)
-
 ## 🔧 ****Technologies****
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light)
@@ -32,6 +25,8 @@
 - **By me a Jmil-coffe:** [((✌️))](https://www.buymeacoffee.com/MaxonDev)
 
 - **My twitter:** [((👌))](https://twitter.com/maxondevelop)
+
+- **My poligon:** [((🤝))](https://www.poliigon.com/account?tab=dashboard)
 
 <h3 align="left">By me a Jmil-coffe 💞:</h3>
 <p>
