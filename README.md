@@ -8,11 +8,13 @@
 
 <img src='https://github.com/plinom/plinom/blob/main/README/gipss.gif' alt='images'>
 
-🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
-
 ## 🔧 ****Technologies****
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light)
+<!-- ![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light) -->
+
+<p align='center'>
+    <img alt='images' href='https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light'></img>
+</p>
 
 ## 🌏 ****Social networks****
 
