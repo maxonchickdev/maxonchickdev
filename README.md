@@ -23,7 +23,7 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=black)
+![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light)
 
 ## 🌏 Co-Founded Tech Communities
 
