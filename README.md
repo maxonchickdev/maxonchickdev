@@ -24,15 +24,19 @@
 
 ## 🌏 Social networks
 
-- **My telegram:** [Wellcome](https://telegram.me/maxonchicks)<br>
-- **My discord:** [Wellcome](https://discordapp.com/users/7502)<br>
-- **My instagram:** [Wellcome](https://instagram.com/maxondev)<br>
-- **By me a Jmil-coffe:** [Wellcome](https://www.buymeacoffee.com/MaxonDev)<br>
-- **My twitter:** [Wellcome](https://twitter.com/maxondevelop)<br>
+- **My telegram**: [Wellcome](https://telegram.me/maxonchicks)
+- 
+- My discord: [Wellcome](https://discordapp.com/users/7502)
+- 
+- My instagram: [Wellcome](https://instagram.com/maxondev)
+- 
+- By me a Jmil-coffe: [Wellcome](https://www.buymeacoffee.com/MaxonDev)
+- 
+- My twitter: [Wellcome](https://twitter.com/maxondevelop)
 
 <h3 align="left">By me a Jmil-coffe 💞:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/MaxonDev">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="10" width="30" alt="maxondev" />
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhumen" />
     </a>
 </p><br><br>
