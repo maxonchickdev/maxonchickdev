@@ -6,13 +6,13 @@
     <img src='https://github.com/plinom/plinom/blob/main/README/Group%202.png' alt='images'>
 </p>
 
-<img src='https://github.com/plinom/plinom/blob/main/README/gipss.gif' alt='images'>
+<img src='https://github.com/plinom/plinom/blob/main/README/gipss.gif' alt='images'><br>
 
 ## 🔧 ****Technologies****
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery)
+![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery)<br>
 
-## 🤌🤌🤌<br>
+## 🤌🤌🤌
 
 <p align='center'>
     <img src='https://github.com/plinom/plinom/blob/main/README/Group%203.png' alt='images'>
