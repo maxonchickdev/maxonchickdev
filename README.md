@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hi, I'm Maksim Kutsenko `💻💖☕`
+    <img src='https://github.com/plinom/plinom/blob/main/README/titles.gif' alt='images'>
 </h1>
 
 <p align='center'>
