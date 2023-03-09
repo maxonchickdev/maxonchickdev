@@ -23,15 +23,15 @@
 
 ## 🌏 ****Social networks****
 
-- **My telegram**: [Click: 🤙](https://telegram.me/maxonchicks)
+- **My telegram**: [((🤙))](https://telegram.me/maxonchicks)
 
-- **My discord:** [Click: 🤞](https://discordapp.com/users/7502)
+- **My discord:** [((🤞))](https://discordapp.com/users/7502)
 
-- **My instagram:** [Click: 👇](https://instagram.com/maxondev)
+- **My instagram:** [((👇))](https://instagram.com/maxondev)
 
-- **By me a Jmil-coffe:** [Click: ✌️](https://www.buymeacoffee.com/MaxonDev)
+- **By me a Jmil-coffe:** [((✌️))](https://www.buymeacoffee.com/MaxonDev)
 
-- **My twitter:** [Click: 👌](https://twitter.com/maxondevelop)
+- **My twitter:** [((👌))](https://twitter.com/maxondevelop)
 
 <h3 align="left">By me a Jmil-coffe 💞:</h3>
 <p>
