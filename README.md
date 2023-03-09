@@ -15,7 +15,7 @@
 ## 🤌🤌🤌
 
 <p align='center'>
-    <img src='' alt='images'>
+    <img src='https://github.com/plinom/blob/main/README/Group%203.png' alt='images'>
 </p>
 
 ## 🌏 ****Social networks****
