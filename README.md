@@ -23,15 +23,15 @@
 
 ## 🌏 ****Social networks****
 
-- **My telegram**: [Wellcome](https://telegram.me/maxonchicks)
+- **My telegram**: [Click: 🤙](https://telegram.me/maxonchicks)
 
-- **My discord:** [Wellcome](https://discordapp.com/users/7502)
+- **My discord:** [Click: 🤞](https://discordapp.com/users/7502)
 
-- **My instagram:** [Wellcome](https://instagram.com/maxondev)
+- **My instagram:** [Click: 👇](https://instagram.com/maxondev)
 
-- **By me a Jmil-coffe:** [Wellcome](https://www.buymeacoffee.com/MaxonDev)
+- **By me a Jmil-coffe:** [Click: ✌️](https://www.buymeacoffee.com/MaxonDev)
 
-- **My twitter:** [Wellcome](https://twitter.com/maxondevelop)
+- **My twitter:** [Click: 👌](https://twitter.com/maxondevelop)
 
 <h3 align="left">By me a Jmil-coffe 💞:</h3>
 <p>
