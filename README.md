@@ -22,6 +22,8 @@
 
 - **My telegram**: [((🤙))](https://telegram.me/maxonchicks)
 
+<a href="https://telegram.me/maxonchicks" target="blank"><img align="center" src="https://github.com/plinom/plinom/blob/main/README/telegram.png" alt="den_humen" height="30" width="40" /></a>
+
 - **My discord:** [((🤞))](https://discordapp.com/users/7502)
 
 - **My instagram:** [((👇))](https://instagram.com/maxondev)
