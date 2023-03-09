@@ -38,7 +38,7 @@
 
 - **My twitter:** [((👌))](https://twitter.com/maxondevelop)
 
-<a href="https://twitter.com/maxondevelop" target="blank"><img align="center" src="https://github.com/plinom/plinom/blob/main/README/twitter.webp" alt="den_humen" height="40" width="40" /></a>
+<a href="https://twitter.com/maxondevelop" target="blank"><img align="center" src="https://github.com/plinom/plinom/blob/main/README/twitter.webp" alt="den_humen" height="30" width="40" /></a>
 
 - **My poligon:** [((🤝))](https://www.poliigon.com/account?tab=dashboard)
 
