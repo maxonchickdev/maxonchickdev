@@ -1,7 +1,6 @@
 <h1 align='center'>
-    Hi, I'm Maksim Kutsenko (💻💖☕)
+    Hi, I'm Maksim Kutsenko `💻💖☕`
 </h1>
-
 
 <p align='center'>
     <img src='https://github.com/plinom/plinom/blob/main/README/Group%202.png' alt='images'>
@@ -18,7 +17,7 @@
 - 💜 Core @ [Subscribe me to poligon](https://www.poliigon.com/account?tab=dashboard)
 - ☕ Jmil-Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/MaxonDev)
 
-## 🔧 Technologies
+## 🔧 ****Technologies****
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery,vscode&theme=light)
 
