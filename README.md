@@ -11,25 +11,15 @@
 
 <img src='https://github.com/plinom/plinom/blob/main/README/gipss.gif' alt='images'>
 
-<!-- ### Student in UCU, Web-developer of sites, designer of graphic designs. 💻💖☕ -->
-
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
-- 💝 Author of multiple open source projects (~50 to date).
-- 💼 Community Manager @ [thirdweb](https://github.com/thirdweb-dev)
-- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
-- 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
-- 💜 Core @ [Polygon Guild Manila](https://twitter.com/polygonguildmnl)
-- 🔏 Bug bounty hunter in free time.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
+- 💝 Author of multiple open source projects (~30 to date)
+- 💼 Community Manager @ [thirdweb](https://telegram.me/maxonchicks)
+- 💜 Core @ [Polygon Guild Manila](https://www.poliigon.com/account?tab=dashboard)
+- 🔏 Bug bounty hunter in free time
+- ![TwitterGIF](https://user-images.githubusercontent.com/116636835/224061807-640e1491-1e52-4278-ace2-5f137acda5d2.gif)
+- ☕ Jmil-Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/MaxonDev)
 - 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more about me](https://bio.link/warengonzaga).
-
-## 🎧 Spotify Playing
-
-[![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 ## 🔧 Technologies
 
