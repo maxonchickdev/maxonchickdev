@@ -22,11 +22,11 @@
 
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @maxondev"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/maxondevelop" title="Twitter - @maxondev"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/979052/alicia" title="StackOverflow - @maxondev"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://dev.to/lissy93" title="Dev.to - @maxondev"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - @maxondev"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Lissy93" title="GitHub - @maxon"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://dev.to/plinom" title="Dev.to - @maxondev"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/максим-куценко-7225ab269/" title="LinkedIn - @maxondev"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Lissy93https://github.com/plinom" title="GitHub - @maxon"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   </kbd>
 </p>
 
