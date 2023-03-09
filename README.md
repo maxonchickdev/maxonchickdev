@@ -12,7 +12,7 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery)
 
-## 🤌🤌🤌
+## 🤌🤌🤌<br>
 
 <p align='center'>
     <img src='https://github.com/plinom/plinom/blob/main/README/Group%203.png' alt='images'>
