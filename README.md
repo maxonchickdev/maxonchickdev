@@ -15,7 +15,7 @@
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
-  💝 Author of multiple open source projects (~30 to date)
+- 💝 Author of multiple open source projects (~30 to date)
 - 🔏 Bug bounty hunter in free time
 - 🎯 Wasting my time to save other people's time.
 - 💼 Community from me @ [Wellcome](https://telegram.me/maxonchicks)
@@ -34,7 +34,7 @@
 
 ## 🌏 Tech Communities
 
-[![Community](https://discordapp.com/api/guilds/970915199617990707/widget.png?style=banner2)](https://web3philippines.org) [![Community](https://discordapp.com/api/guilds/905496362982981723/widget.png?style=banner2)](https://ossph.org)
+    ppp
 
 <h3 align="left">By me a Jmil-Coffe 💞:</h3>
 <p>
