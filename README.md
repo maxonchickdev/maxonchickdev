@@ -26,7 +26,7 @@
 
 - **My poligon:** [((🤝))](https://www.poliigon.com/account?tab=dashboard)
 
-<h3 align="left">By me a Jmil-coffe 💞:</h3>
+<h3 align="left">By me Jmil-coffe 💞:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/MaxonDev">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhumen" />
