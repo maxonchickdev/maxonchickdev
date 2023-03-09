@@ -15,7 +15,7 @@
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
-- 💝 Author of multiple open source projects (~30 to date)
+  💝 Author of multiple open source projects (~30 to date)
 - 🔏 Bug bounty hunter in free time
 - 🎯 Wasting my time to save other people's time.
 - 💼 Community from me @ [Wellcome](https://telegram.me/maxonchicks)
