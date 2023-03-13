@@ -30,7 +30,7 @@
 
 ## 🤌 ****My vibe****
 
-<p align='center'>
+<p align='left'>
     <img src='https://github.com/plinom/plinom/blob/main/README/Group%203.png' alt='images'>
 </p>
 
