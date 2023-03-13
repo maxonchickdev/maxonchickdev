@@ -34,8 +34,8 @@
     <img src='https://github.com/plinom/plinom/blob/main/README/Group%203.png' alt='images'>
 </p>
 
-<h3 align="left">By me Jmil-coffe 💞:</h3>
-<p>
+<h3 align="center">By me Jmil-coffe 💞:</h3>
+<p align="center">
     <a href="https://www.buymeacoffee.com/MaxonDev">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhumen" />
     </a>
