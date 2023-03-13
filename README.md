@@ -22,13 +22,13 @@
 
 - 🍵 **I work only with coffee (I love cocktail Gimel)** ☕
 
-- 🖱️ I have done more than 20 objects 💻
+- 🖱️ **I have done more than 20 objects** 💻
 
-- ✨ Also in the development of projects I use steep libraries, which are built on artificial intelligence. 🎇
+- ✨ **Also in the development of projects I use steep libraries, which are built on artificial intelligence** 🎇
 
-- 🎲 I also have experience working as a freelancer (weblancer, freelancehub) 🏢
+- 🎲 **I also have experience working as a freelancer (weblancer, freelancehub)** 🏢
 
--  👨‍🎓Now I study at UCU to bleed my glasses 🏫
+- 👨‍🎓 **Now I study at UCU to bleed my glasses** 🏫
 
 ## 🌏 ****Social networks****
 
