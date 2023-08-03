@@ -56,34 +56,3 @@
 
 ### :zap: Most used languages ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-<p align="center">&nbsp;<img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
-    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
-    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
-</a>
-</p>
-
-
-### :zap: GitHub Stats 📈
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-<p align="center">&nbsp;
-   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Vikash-8090-Yadav&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> <br><br>
-  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash-8090-Yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikash-8090-Yadav&theme=dracula" />
-
- ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
- 
-  <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg" /><br><br>
-
- 
- [![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
-![Vikash Yadav github activity graph](https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/marquee.svg"/>
-
-<img height="100%" width="100%" alt="Bottom" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/bottom_header.svg"/>
