@@ -20,7 +20,7 @@
 
 ## 🔧 ****Technologies****
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,php,wordpress,nodejs,vue,react,mysql,py,vim,git,figma,bash,jquery)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,aws,figma,bash,c,cpp,cmake,codepen,css,discord,django,docker,express,fastapi,figma,firebase,flask,git,github,graphql,heroku,html,idea,java,js,kubernetes,latex,linkedin,linux,md,maven,mongodb,mysql,neovim,nestjs,netlify,nextjs,nodejs,postgres,postman,py,r,react,redux,sass,spring,sqlite,stackoverflow,tailwind,swift,ts,vim,vscode,webpack,vite,&theme=dark)](https://skillicons.dev)
 
 ## 🌏 ****Social networks****
 
