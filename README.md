@@ -1,4 +1,4 @@
-# Hi everyone, <p style"color: #00FF00">I'm Max<p>
+# Hi everyone, I'm Max
 
 ## 🤖 ****My work experience****
 
