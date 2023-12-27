@@ -6,9 +6,9 @@
 
 - **Next js developer in AISDR company** 💻
 
-- 🎲 **I also have experience working as a freelancer (weblancer, freelancehub)** 🏢
+- **I also have experience working as a freelancer (weblancer, freelancehub)** 🎲
 
-- 👨‍🎓 **Now I study at UCU in APPS** 🏫
+- **Now I study at UCU in APPS** 👨‍🎓
 
 ## 🔧 ****Technologies****
 
