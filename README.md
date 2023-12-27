@@ -2,10 +2,6 @@
     <img src='https://github.com/plinom/plinom/blob/main/README/titles.gif' alt='images'>
 </h1>
 
-<p align='center'>
-    <img src='https://github.com/plinom/plinom/blob/main/README/Group%202.png' alt='images'>
-</p>
-
 ## 🤖 ****My work experience****
 
 - 🍵 **I work only with coffee (I love cocktail Gimel)** ☕
