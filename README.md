@@ -2,15 +2,13 @@
 
 ## 🤖 ****My work experience****
 
-- 🍵 **I work only with coffee (I love cocktail Gimel)** ☕
+- **Backend developer in Golem Agency** 💻
 
-- 🖱️ **I have done more than 20 objects** 💻
-
-- ✨ **Also in the development of projects I use steep libraries, which are built on artificial intelligence** 🎇
+- **Next js developer in AISDR company** 💻
 
 - 🎲 **I also have experience working as a freelancer (weblancer, freelancehub)** 🏢
 
-- 👨‍🎓 **Now I study at UCU to bleed my glasses** 🏫
+- 👨‍🎓 **Now I study at UCU in APPS** 🏫
 
 ## 🔧 ****Technologies****
 
@@ -26,6 +24,3 @@
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxon" />
     </a>
 </p>
-
-### :zap: Most used languages ❤️
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
