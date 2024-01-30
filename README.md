@@ -10,7 +10,7 @@
 
 ## 🔧 ****Technologies****
 
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,aws,figma,bash,c,cpp,cmake,codepen,css,discord,django,docker,express,fastapi,figma,firebase,flask,git,github,graphql,heroku,html,idea,java,js,kubernetes,latex,linkedin,linux,md,maven,mongodb,mysql,neovim,nestjs,netlify,nextjs,nodejs,postgres,postman,py,r,react,redux,sass,spring,sqlite,stackoverflow,tailwind,swift,ts,vim,vscode,webpack,vite&perline=14&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,aws,bash,c,cpp,cmake,css,django,docker,express,fastapi,firebase,flask,graphql,heroku,html,js,kubernetes,latex,linux,maven,mongodb,mysql,neovim,nestjs,netlify,nextjs,nodejs,postgres,r,react,redux,sass,spring,sqlite,tailwind,ts,vim,webpack,vite&perline=14&theme=dark)](https://skillicons.dev)
 
 ## 🌏 ****Social networks****
 
