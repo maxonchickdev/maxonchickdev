@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T14:37:43.791Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="AcEg7vNpaEUoJIKr0WyW" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T14:48:24.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="xl98Cdj6oQUZ8Shxj0cP" version="22.1.21" type="github">
   <diagram name="Page-1" id="Py248u8t0kP19_4Gev60">
-    <mxGraphModel dx="1283" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -908,11 +908,19 @@
         <mxCell id="s6z-DPjrk-eeVtkhGJ_P-565" value="Guide" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="1760" y="559.9199999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-569" value="Basic Relationships" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="10" width="140" height="40" as="geometry" />
+        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-569" value="Basic Relationships" style="text;whiteSpace=wrap;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="10" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s6z-DPjrk-eeVtkhGJ_P-617" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s6z-DPjrk-eeVtkhGJ_P-570" target="s6z-DPjrk-eeVtkhGJ_P-602">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-639" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s6z-DPjrk-eeVtkhGJ_P-570" target="s6z-DPjrk-eeVtkhGJ_P-637">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3030" y="210" />
+              <mxPoint x="3030" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s6z-DPjrk-eeVtkhGJ_P-570" value="TouristInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2840" y="184.94" width="90" height="49.94" as="geometry" />
@@ -1101,8 +1109,8 @@
         <mxCell id="s6z-DPjrk-eeVtkhGJ_P-616" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s6z-DPjrk-eeVtkhGJ_P-613" target="s6z-DPjrk-eeVtkhGJ_P-605">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-613" value="Pay fees" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-613" value="Guides team get fees" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="50" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s6z-DPjrk-eeVtkhGJ_P-635" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s6z-DPjrk-eeVtkhGJ_P-625" target="s6z-DPjrk-eeVtkhGJ_P-634">
           <mxGeometry relative="1" as="geometry" />
@@ -1141,6 +1149,20 @@
         </mxCell>
         <mxCell id="s6z-DPjrk-eeVtkhGJ_P-634" value="Guide" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="2415" y="404.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-638" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s6z-DPjrk-eeVtkhGJ_P-637" target="s6z-DPjrk-eeVtkhGJ_P-612">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3280" y="440" />
+              <mxPoint x="3280" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-637" value="Tourist need to pay fees" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3050.72" y="405.04" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s6z-DPjrk-eeVtkhGJ_P-640" value="Guides" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="654.88" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
