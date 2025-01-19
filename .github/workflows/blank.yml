@@ -2,7 +2,7 @@ name: CI Workflow
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   build:
@@ -17,5 +17,11 @@ jobs:
         with:
           node-version: "16"
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Print message
-        run: echo "This is a cron job running every minute."
+        run: echo "This is a cron job running every 2 minutes."
+
+      - name: Run tests
+        run: npm test
