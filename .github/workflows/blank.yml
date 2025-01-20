@@ -1,0 +1,12 @@
+name: Cron action
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print message
+        run: echo "This is a cron job running every 2 minutes."
